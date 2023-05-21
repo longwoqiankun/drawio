@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T12:52:50.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="c6ByOH_L2ML_ahwgWne8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T14:11:53.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8nzsPEa3lgbVGtQ2z67C" version="21.3.2" type="github">
   <diagram name="第 1 页" id="kdOabGvZRyfj0vI0X4Y8">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="atUL0PeXlnv38VCRYHX9-1" value="仿真引擎" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atUL0PeXlnv38VCRYHX9-2" value="ChatGPT" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atUL0PeXlnv38VCRYHX9-3" value="场景：&lt;br&gt;1.帮助建模，对话式建模 （否）&lt;br&gt;2. 给运营建议，多数据融合的时候，给一些订单，资源配置的输入，仿真给一些建议。&lt;br&gt;3. 通过仿真模拟输入和输出，训练模型，由其总结规律和生成报告。&lt;br&gt;4. 仿真规划专家角色（已经喂养一些规划知识） +&amp;nbsp; 特定场景的自动建模技术 + 用户特殊需求的规划+验证" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="380" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
